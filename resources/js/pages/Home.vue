@@ -1,0 +1,12 @@
+<template>
+    <div class="container">
+        <div class="card card-default">
+            <div class="card-header text-center">Welcome to Movies App</div>
+            <div class="card-body">
+                <p>Sagittis a vestibulum inceptos et rutrum faucibus laoreet per eu mollis facilisi senectus ad consequat suspendisse egestas penatibus vel risus sapien potenti mus. Vestibulum phasellus sit consectetur suspendisse montes a ullamcorper fusce a adipiscing venenatis ut neque at auctor mattis consequat vulputate. Sociosqu scelerisque dapibus a a vehicula facilisi rutrum pharetra erat est luctus vestibulum pharetra cubilia posuere cum pharetra adipiscing blandit orci ante vestibulum scelerisque nullam adipiscing scelerisque suspendisse. Suscipit pulvinar a torquent interdum condimentum taciti fusce sem parturient molestie aptent non ante duis ultricies molestie dui vestibulum ante adipiscing scelerisque.</p>
+                <p>Ullamcorper commodo a vestibulum platea donec aliquam at elementum eu elit vestibulum in at magna arcu in ligula. A vestibulum vestibulum tempor vestibulum sit curabitur vivamus sociis a cras scelerisque consectetur a nisi blandit elementum etiam vestibulum consectetur at condimentum sociosqu eleifend dui. Vitae dis vestibulum nibh consectetur nibh elementum duis nec nulla arcu integer ullamcorper facilisis proin mus arcu magna praesent natoque semper augue placerat parturient ultrices consectetur ut. In scelerisque mi lobortis morbi facilisi id hac porta nullam facilisis vestibulum nam adipiscing in. Risus vestibulum ac dignissim adipiscing vestibulum duis nascetur vestibulum consectetur parturient parturient sodales eu suscipit vitae imperdiet rhoncus nunc quam habitasse fames hendrerit per at.</p>
+                <p>Vestibulum in a condimentum ac lobortis suspendisse fames pharetra nam parturient ullamcorper a vel accumsan ullamcorper ad a velit vehicula felis varius donec ut et. Praesent penatibus nunc aptent proin tortor tristique risus id suscipit nascetur ad sed nam viverra metus diam id scelerisque suscipit vestibulum lobortis erat montes quam nam enim a. Nulla suspendisse aliquet parturient senectus ac in parturient ut parturient penatibus cum consectetur at purus cursus. Est convallis nisl suspendisse condimentum a dapibus blandit hac a a nisl quis nulla eros dapibus consectetur vel luctus.</p>
+            </div>
+        </div>
+    </div>
+</template>
