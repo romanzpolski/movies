@@ -5,7 +5,7 @@ Laravel application that fetches data from TheMoviesDB API and displays results 
 - Search by movie title or genre.
 - Pagination 
 
-![image](Screenshot 2019-01-15 at 10.01.12.png)
+![image](screenshot.png)
 
 ### Installation
 
