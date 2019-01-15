@@ -5,8 +5,11 @@ Laravel application that fetches data from TheMoviesDB API and displays results 
 - Search by movie title or genre.
 - Pagination 
 
+![image](Screenshot 2019-01-15 at 10.01.12.png)
+
 ### Installation
 
+- You need to have PHP 7.2 installed on you machine, docker not working yet
 - App is connected to free DB: [https://www.freemysqlhosting.net/](https://www.freemysqlhosting.net/)
 - clone this repo and enter to it with terminal
 - run ```composer install```
